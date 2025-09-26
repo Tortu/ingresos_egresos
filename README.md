@@ -4,13 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+FlutterApp registra, edita, elimina y muestra las transacciones con gráficas #Dependencias utilizadas dependencies: fl_chart: ^1.1.1 cupertino_icons: ^1.0.8 flutter: sdk: flutter intl: ^0.17.0 provider: ^6.0.0 uuid: ^4.4.2 sqflite: ^2.4.0 path_provider: ^2.1.4
